@@ -71,7 +71,7 @@ Debes seleccionar **un sistema real** de la siguiente lista y diseñar los casos
 
 ---
 
-## 📌 Lo que debes documentar antes de diseñar los casos
+##  Lo que debes documentar antes de diseñar los casos
 
 Antes de escribir un solo caso de prueba, responde estas preguntas en tu Word:
 
@@ -89,7 +89,7 @@ Antes de escribir un solo caso de prueba, responde estas preguntas en tu Word:
 
 ---
 
-## 🧪 Casos de prueba requeridos — mínimo 10
+## Casos de prueba requeridos — mínimo 10
 
 Diseña **al menos 10 casos de prueba** que cubran:
 
