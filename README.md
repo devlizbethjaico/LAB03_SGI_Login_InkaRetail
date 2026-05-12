@@ -1,4 +1,4 @@
-# 🏪 SGI InkaRetail: Laboratorio 03
+# SGI InkaRetail: Laboratorio 03
 ### IS-489 Pruebas y Aseguramiento de Calidad de Software | UNSCH 2026-I
 
 ---
@@ -14,13 +14,13 @@
 
 ---
 
-## 🎯 Objetivo del laboratorio
+## Objetivo del laboratorio
 
 Diseñar casos de prueba funcionales aplicando las técnicas de **Partición de Equivalencia (PE)** y **Análisis de Valores Límite (AVL)** sobre el módulo de autenticación del sistema SGI InkaRetail.
 
 ---
 
-## 🏢 Sistema bajo prueba
+##  Sistema bajo prueba
 
 **InkaRetail S.A.C.** — Empresa de retail con 12 tiendas en Ayacucho, Huancayo y Cusco.
 
@@ -31,7 +31,7 @@ El módulo bajo prueba es la **autenticación de usuarios** del SGI (Sistema de 
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 📁 inicio de sesion sgi/
@@ -52,7 +52,7 @@ El módulo bajo prueba es la **autenticación de usuarios** del SGI (Sistema de 
 
 
 TAREA:
-# 📝 TAREA — Laboratorio 03
+#  TAREA — Laboratorio 03
 
 
 Debes seleccionar **un sistema real** de la siguiente lista y diseñar los casos sobre su módulo de **Login o Registro**. También puedes proponer otro sistema con aprobación del docente.
@@ -65,7 +65,7 @@ Debes seleccionar **un sistema real** de la siguiente lista y diseñar los casos
 | 5 | **Ripley Perú** (e-commerce) | https://simple.ripley.com.pe | 
 | 6 | **Mercado Libre Perú** | https://www.mercadolibre.com.pe | 
 
-> ⚠️ **Importante:** NO necesitas crear una cuenta real ni comprar nada.
+>  **Importante:** NO necesitas crear una cuenta real ni comprar nada.
 > Solo necesitas identificar un modulo y trabajar las reglas de validación
 > que aplica el sistema y diseñar los casos de prueba en base a eso.
 
